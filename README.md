@@ -1,4 +1,4 @@
-#  Opa, eu sou o Breno 😊
+![Texto alternativo](Banner.png)
 
 💻 Mecânico de Usinagem e estudante de Ciência da Computação  
 ⚙️ Ex-competidor da WorldSkills • Explorando o elo entre engenharia e tecnologia  
