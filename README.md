@@ -1,7 +1,7 @@
-![Texto alternativo](Banner.png)
+![](Banner.png)
 
 💻 Mecânico de Usinagem e estudante de Ciência da Computação  
-⚙️ Ex-competidor da WorldSkills • Explorando o elo entre engenharia e tecnologia  
+⚙️ Ex-competidor da WorldSkills • Explorando o elo entre mecanica e tecnologia  
 🌐 Apaixonado por desenvolvimento, design e inovação com propósito humano  
 
 📚 Atualmente aprendendo e criando com:  
